@@ -388,10 +388,6 @@
                         ),
                         r =
                           e.asset.id +
-                          "-" +
-                          e.asset.width +
-                          "x" +
-                          e.asset.height +
                           "." +
                           e.asset.format,
                         n =
